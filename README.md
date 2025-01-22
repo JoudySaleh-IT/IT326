@@ -1,4 +1,4 @@
-# Data Mining IT326 | project Heart Disease
+# Data Mining IT326 project | Heart Disease
  Lab: 52847(Wednesday 2-4), group number: 4
  
 Group Members:
